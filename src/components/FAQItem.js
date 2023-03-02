@@ -14,7 +14,7 @@ export default function FAQItem(props){
             </button>
             {show && 
                 <div className='dropdown'>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, delectus. Sequi esse porro aspernatur a consequatur similique, sint assumenda qui minus quo rerum, suscipit dolores nam ipsa explicabo. A, laborum.</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, delectus. Sequi esse porro aspernatur a consequatur similique, sint assumenda qui minus quo rerum, suscipit dolores nam ipsa explicabo. A, laborum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, delectus. Sequi esse porro aspernatur a consequatur similique, sint assumenda qui minus quo rerum, suscipit dolores nam ipsa explicabo. A, laborum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, delectus. Sequi esse porro aspernatur a consequatur similique, sint assumenda qui minus quo rerum, suscipit dolores nam ipsa explicabo. A, laborum.</p>
                 </div>
             }
         </div>
